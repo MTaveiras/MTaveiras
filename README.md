@@ -9,7 +9,7 @@ I'm Marcos, a Brazilian lawyer with a passion for technology and software engine
 ## My Journey
 
 - 📚 I'm currently studying Software Engineering, and I'm eager to expand my knowledge in this field.
-- 💻 I'm currently learning C, HTML, JavaScript and CSS and working on personal coding projects to build my skills.
+- 💻 I'm currently learning C, C++, HTML, JavaScript and CSS and working on personal coding projects to build my skills.
 - 🌐 My goal is to combine my legal background with software development to create innovative solutions for both the legal and coding industry.
 
 ## Projects
