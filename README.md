@@ -32,7 +32,7 @@ Feel free to explore them, provide feedback, or collaborate with me on any of th
 I'm always open to connecting with fellow developers, legal professionals, or anyone interested in technology and law. You can reach me through the following channels:
 
 - 📧 Email: marcosctaveira@gmail.com
-- 🐦 LinkedIn: [MarcosTaveira](www.linkedin.com/in/marcos-carvalho-taveira-de-souza-5a0849161)
+- 🐦 LinkedIn: [MarcosTaveira](www.linkedin.com/in/marcos-taveira)
 
 
 
