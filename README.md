@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marcos Taveira</h1>
 <h3 align="center">A Brazilian software engineering student and a lawyer. Recently, I embarked on an exciting journey to learn and explore the world of software development. This README serves as a brief introduction to who I am and what I'm working on.</h3>
 
-- 🔭 I’m currently working on [TempIn Development](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti1-0385100-tempo-livre-inutilizado.git)
+- 🔭 I’m currently working on [TempIn Development](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti1-0385100-tempo-livre-inutilizado.git) and [PeladIn Development]([https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti1-0385100-tempo-livre-inutilizado.git](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti2-1372100-peladin).
 
-- 🌱 I’m currently learning **Algorithms and Programming Logic**
+- 🌱 I’m currently learning **Algorithms and Programming Logic and Modular Programming**
 
 - 📫 How to reach me **marcosctaveira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marcos taveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos taveira" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/marcostaveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcos taveira" height="30" width="40" /></a>
 <a href="https://instagram.com/marcos_taveira_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcos_taveira_" height="30" width="40" /></a>
 </p>
 
