@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos Taveira</h1>
 <h3 align="center">A Brazilian software engineering student and a lawyer. Recently, I embarked on an exciting journey to learn and explore the world of software development. This README serves as a brief introduction to who I am and what I'm working on.</h3>
 
-- 🔭 I’m currently working on [TempIn Development](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti1-0385100-tempo-livre-inutilizado.git) and [PeladIn Development](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti1-0385100-tempo-livre-inutilizado.git)
+- 🔭 I’m currently working on [TempIn Development](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-2-ti1-0385100-tempo-livre-inutilizado.git) and [PeladIn Development](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti2-1372100-peladin)
 
 - 🌱 I’m currently learning **Algorithms and Programming Logic and Modular Programming**
 
